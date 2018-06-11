@@ -1,16 +1,16 @@
 # Flow Control
 
-[<- Go Back] (README.md)
+[<- Go Back](../README.md)
 
 ## Table of Contents
-- [Boolean Logic](#Boolean Logic)
-- [If Statements](#If Statements)
+- [Boolean Logic](#BooleanLogic)
+- [If Statements](#IfStatements)
 - [Else](#Else)
-- [Switch Statements](#Switch Statements)
+- [Switch Statements](#SwitchStatements)
 - [Loops](#Loops)
-- [For Loops](#Boolean Logic)
-- [While Loops](#While Loops)
-- [Do-while Loops](#Do-while Loops)
+- [For Loops](#BooleanLogic)
+- [While Loops](#WhileLoops)
+- [Do-while Loops](#Do-whileLoops)
 
 
 ## Boolean Logic
