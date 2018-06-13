@@ -21,10 +21,10 @@
 &nbsp;
 ## Student's Individual Project
 Each student will build an application of their own choice. It should be a web application with functional back end and front end. 
-- Example applications could be: A Banking System, A Rock-Paper-Scissor game, A School System, Inventory Management System, A simple Ecommerce Store, etc.  
-- You will use your own Github account to host your project, you will need to email me your Github account on or before **June 8th, 2018**
-- You will need to submit a Project Proposal that will briefly describe what you have chosen to build on **June 20th, 2018**
-- We will simulate a *"2-week sprint"* in which you will have to provide me an update on your project **every 2 weeks**
+- Example applications could be: A Banking System, A School System, Inventory Management System, A simple Ecommerce Store, etc.  
+- You will use your own Github account to host your project, you will need to email me your Github account on or before **June 18th, 2018**
+- You will need to submit a Project Proposal that will briefly describe what you have chosen to build on **June 28th, 2018**
+- Please provide me with an update to how your project is going **every 2 weeks**
 - If you are unable to come up with an idea of what you should be building, please ask! I'll be very happy to help!
 
 &nbsp;
