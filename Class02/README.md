@@ -10,7 +10,7 @@ Next class we will be learning about **Algorithms**
 
 ## Homework
 
-1 Complete all of the practices posted here:
+1. Complete all of the practices posted here:
 *  https://drive.google.com/open?id=1M1k0R1yzCVr2oKlvPPCBAn1ulUrUTvRV
 
 2. Research about Version Control System and Git
