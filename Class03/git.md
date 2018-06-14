@@ -21,7 +21,7 @@ git --version
 
 * Open up git bash, and navigate to your root directory:
 ```bash
-cd C:\
+cd c:
 ```
 
 * Create a folder with the name `proj`
@@ -69,12 +69,12 @@ git status
 
 ### Using the downloaded examples
 * Change directory to the hello world example folder, located in the following directory:
-* `C:/proj/git/javawpg/examples/01-HelloWorld`
+* `C:/proj/javawpg/examples/01-HelloWorld`
 * Make sure you're on the correct folder
 ```bash
 pwd
 ```
-* You must see the path **/C:/proj/git/javawpg/examples/01-HelloWorld**
+* You must see the path **/C:/proj/javawpg/examples/01-HelloWorld**
 * Compile the application using the java compiler command `javac` (Your java environment must be configured correctly for this step to work):
 ```bash
 javac HelloWorld.java
