@@ -14,7 +14,8 @@ Next class will be further learning about **Algorithms**
 
 1. Complete additional logics practice posted here:
 *  https://drive.google.com/open?id=1CwqUfp2VRZXEvhUikq227f2FoR1t_txi
-2. Complete algorithms practice posted here:
-*  https://drive.google.com/open?id=1wjdP2zHRD_9QUfCSPz-in2uH-UBVHR-Z
+2. Complete both sets of algorithms practice posted here:
+*  1- https://drive.google.com/open?id=1wjdP2zHRD_9QUfCSPz-in2uH-UBVHR-Z
+*  2 - https://drive.google.com/open?id=13nNKqOvZ6CGs-xUTvZCC4c_0tUYClUhO
 3. If you haven't yet, setup your own Github account and send it to my email address: krmschmitz@gmail.com
 4. Download Bash, and use it to download the course repository
