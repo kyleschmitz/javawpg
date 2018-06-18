@@ -28,7 +28,7 @@ public class HelloWorld{
 }
 ```
 
-* In java, we use the '//' marker to denote a "comment". This is a line that does not affect the program in any way, can is used by developers to write notes in their program to explain pieces of code to other developers.
+* In java, we use the `//` marker to denote a "comment". This is a line that does not affect the program in any way, can is used by developers to write notes in their program to explain pieces of code to other developers.
 * In java, your filename must match the name of your class. In the above example, our class name is `HelloWorld`, so our filename must be `HelloWorld.java`
 
 
@@ -45,7 +45,7 @@ System.out.println("This is some output");
 ### Input
 
 * To read in data from the cosole, the commands are slightly more complicated for Java. 
-* When using `Scanner` for input, you need the following line at the top of your application:
+* We will be using a class for input called `Scanner`. When using `Scanner` for input, you need the following line at the top of your application:
 
 ```java
 import java.util.Scanner;
@@ -126,11 +126,13 @@ javac HelloWorld.java
 ```
 
 * Compiling your application will result in a new file `HelloWorld.class` being created in the same directory. This is a bytecode file, which the JVM interprets in order to run your application.
-* Once your application has been built successfully, you can run it using the `java` command, similar to the followingL
+* Once your application has been built successfully, you can run it using the `java` command, similar to the following:
 
 ```bash
 java HelloWorld
 ```
+
+* All input and output for your application for now will be done via the command line.
 
 ## Java & IDE Resources
 * [Writing an application using Eclipse](https://www.youtube.com/watch?v=J9lkAK0L16I)

@@ -14,6 +14,7 @@ Next class will be further learning about **Algorithms**
 ## Homework
 
 1. If you haven't yet, download Bash, and use it to download the course repository
-2. Complete the algorithms practice posted here in Pseudocode:
-*  1 - https://drive.google.com/open?id=1YUOXf7ABVBZxrbw8_OX-c34bjceOTSIW
-3. Write, compile, and run your first Java application.
+2. Complete the algorithms practice posted here using pseudocode:
+  * https://drive.google.com/open?id=1YUOXf7ABVBZxrbw8_OX-c34bjceOTSIW
+3. Download your choice of IDE. If you don't know which one to pick, you can try IntelliJ.
+4. Write, compile, and run your first Java application.
