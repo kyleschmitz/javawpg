@@ -1,0 +1,19 @@
+Algorithm DidTheStudentPass
+
+var String: grade
+
+read(grade)
+
+switch(grade) do
+	"A":
+		print("Great mark! You are amazing!")
+	"B", "C":
+		print("Maybe try harder next time")
+	"D":
+		print("Did you sleep during class?")
+	"F":
+		print("See you next year")
+	default:
+		print("Not a valid grade")
+
+End algorithm

@@ -11,11 +11,6 @@
 
 Next class will be further learning about **Algorithms**
 
-## Psuedocode Examples
-
-[Determine if a student passed the class](DidTheStudentPass.txt)
-[Sum the first n even numbers](SumEvenNumbers.txt)
-
 ## Homework
 
 1. If you haven't yet, download Bash, and use it to download the course repository

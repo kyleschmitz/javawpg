@@ -1,0 +1,19 @@
+Algorithm SumEvenNumbers
+
+var Number: count <- 0
+var Number: sum <- 0
+var Number: numbersToSum
+
+read(numbersToSum)
+
+numbersToSum <- numbersToSum * 2
+
+while (count < numbersToSum) do
+	
+	count <- count + 2
+
+	sum <- sum + count
+
+end while
+
+End Algorithm
