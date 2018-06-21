@@ -1,0 +1,27 @@
+Algorithm AddNumbersDivisibleByThreeAndFive
+	var Number: N, sum
+	read(N)
+
+	sum <- sumOfNumbersDivisibleBy(N, 3) + sumOfNumbersDivisibleBy(N, 5)
+
+End Algorithm
+
+
+Algorithm sumOfNumbersDivisibleBy (Number totalNumbers, Number multiple) : Number
+
+	var Number: sum <- 0
+	var Number: nextNumberToAdd <- multiple
+	var Number: counter <- 0
+
+	while (counter < totalNumbers)
+
+		sum <- sum + nextNumberToAdd
+		nextNumberToAdd <- nextNumberToAdd + multiple
+
+		counter <- counter + 1
+
+	end while
+
+	return sum
+
+End Algorithm

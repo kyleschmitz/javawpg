@@ -1,0 +1,33 @@
+algorithm calculateNet
+	var Number : gross, discount, net, tax, total
+
+	read(gross)
+	discount ← calculateDiscount (gross)
+
+	net ← gross - discount
+	tax <- calculateTax(net)
+	total <- net + tax
+
+end algorithm
+
+
+algorithm calculateDiscount (Number : amount) : Number
+	var Number : discount
+	
+	if (amount< 1000) then 	// If spend less than 1000 then apply 30%
+		discount ← amount * 0.30
+	else	 				// if spend is more than 1000 then apply 35%
+		discount ← amount * 0.35
+	end if
+	
+	if (discount > 500) then	// There won’t be discount over $500
+		discount ← 500
+	end if
+	
+	return discount
+end algorithm 
+
+
+algorithm calculateTax (Number : amount) : Number
+	return amount * 0.13
+end algorithm

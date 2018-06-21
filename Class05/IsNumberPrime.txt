@@ -1,0 +1,36 @@
+Algorithn IsNumberPrime
+
+	var Number: numberToCheck
+	var Number: counter
+	var Number: remainder
+	var Boolean: isNumberPrime
+
+	read(numberToCheck)
+
+	isNumberPrime <- true
+
+	counter <- 2
+
+	while ((counter < numberToCheck) ^ isNumberPrime)
+
+		remainder <- numberToCheck mod counter
+
+		if (remainder == 0)
+			isNumberPrime <- false
+		end if
+		counter <- counter + 1
+	end while
+
+
+	if (isNumberPrime)
+		print("Number is prime")
+	else
+		print("Number is not prime")
+	end if
+
+
+End Algorithm
+
+
+
+
