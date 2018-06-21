@@ -13,8 +13,8 @@ Next class will be further learning about **Algorithms**
 
 ## Psuedocode Examples
 
-[Determine if a student passed the class](DidTheStudentPass.txt)
-[Sum the first n even numbers](SumEvenNumbers.txt)
+* [Determine if a student passed the class](DidTheStudentPass.txt)
+* [Sum the first n even numbers](SumEvenNumbers.txt)
 
 ## Homework
 
