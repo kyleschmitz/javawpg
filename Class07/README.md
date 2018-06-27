@@ -4,7 +4,6 @@
 
 * Review of Java programming from last class
 * Learn about programming using Java.
-  * https://drive.google.com/open?id=1y9PMQHiL10-9tNp6hgQJNy80q_aHe845LKIwHDPKK4g
   * https://drive.google.com/open?id=149OSLapr3fqjkw3zShzNA8RrdR_qerOusW-Cj8SiTXM
 * [Shopping cart exercise](shoppingcart.md)
 
