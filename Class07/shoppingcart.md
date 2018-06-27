@@ -23,4 +23,4 @@ The application will then print the following information:
 
 ## Solution
 
-(Not uploaded yet)
+[Solution in Java](ShoppingCart.java)
