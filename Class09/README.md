@@ -11,7 +11,7 @@ Next class will be further learning about **Types and Conversions**
 
 ## Course Project
 
-By July 2nd, please email me (krmschmitz@gmail.com) the following information about your project:
+By July 4th, please email me (krmschmitz@gmail.com) the following information about your project:
 
 * What is the problem that you are trying to solve?
 * What is the idea for your project?
