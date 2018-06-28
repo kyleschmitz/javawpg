@@ -6,6 +6,12 @@
 * Learn about programming using Java.
   * https://drive.google.com/open?id=1y9PMQHiL10-9tNp6hgQJNy80q_aHe845LKIwHDPKK4g
   * https://drive.google.com/open?id=1reoItWTCIYccdYye2HnwZw93607qsMJOhNi1KJSOkHw
+* Examples from class:
+  * [Increment Example](IncrementExample.java)
+  * [If Example](IfExample.java)
+  * [Switch Example](SwitchExample.java)
+  * [For Example](ForExample.java)
+  * [While Example](WhileExample.java)
 
 Next class will be further learning about **Java Programming**
 
