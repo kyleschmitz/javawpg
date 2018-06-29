@@ -6,9 +6,9 @@
 * Learn about Arrays and Matricies.
   * https://drive.google.com/open?id=1u65ikp_yo_SgFq2B1fuSOROCx_TUJtJp0BAjmLtS9oA
 * Examples from class:
-  * (Arrays Practice #1)[ArraysPractice1.java]
-  * (Arrays Practice #2)[ArraysPractice2.java]
-  * (Arrays Practice #3)[ArraysPractice3.java]
+  * [Arrays Practice #1](ArraysPractice1.java)
+  * [Arrays Practice #2](ArraysPractice2.java)
+  * [Arrays Practice #3](ArraysPractice3.java)
 
 Next class will be further learning about **Types and Conversions**
 
