@@ -38,4 +38,4 @@ For example:
 ## Homework
 
 1. Complete the following assignment in Java:
-  * https://drive.google.com/open?id=144m6RM8ogxJdQwOEXEB8XcBCPHb9aMwb
+  * https://drive.google.com/open?id=1wPocvIk97u2abTPdhgS0vjcB_EBQia7z-YKrlhUlF1Y
