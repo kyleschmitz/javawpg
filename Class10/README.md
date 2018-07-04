@@ -4,7 +4,7 @@
 
 * Finish learning about Arrays and Matricies.
   * https://drive.google.com/open?id=1u65ikp_yo_SgFq2B1fuSOROCx_TUJtJp0BAjmLtS9oA
-* Learn about Types and Converstions.
+* Learn about Types and Conversions.
   * https://drive.google.com/open?id=1rQDu1QKrHYAOCB-ZL-IkrvUKMXcjQbjhnxCXgkRR-8Q
 * Examples from class:
   * [Ariane 5 Rocket Example](Rocket.java)
