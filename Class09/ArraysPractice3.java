@@ -20,7 +20,6 @@ public class ArraysPractice3
 		PrintAverageGradePerStudent(grades);
 
 		PrintAverageGradeForAllStudents(grades);
-
 	}
 
 	public static int[][] ReadGradesForStudents(int numberOfStudents, int numberOfGrades)
@@ -64,12 +63,12 @@ public class ArraysPractice3
 		int averageGrade = 0;
 		for (int i = 0; i < grades.length; i++)
 		{
-			for (int j = 0; j < grades[0].length; j++)
+			for (int j = 0; j < grades[i].length; j++)
 			{
 				averageGrade += grades[i][j];
 			}
 		}
-		averageGrade /= (grades.length * grades[0].length);
+		averageGrade /= (grades.length * grades[i].length);
 		System.out.println("The average grade for all the students is: " + averageGrade);
 	}
 }

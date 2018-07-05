@@ -8,6 +8,7 @@
   * https://drive.google.com/open?id=1rQDu1QKrHYAOCB-ZL-IkrvUKMXcjQbjhnxCXgkRR-8Q
 * Examples from class:
   * [Ariane 5 Rocket Example](Rocket.java)
+  * [Ascii Example](Ascii.java)
 
 Next class will be learning about **Object Oriented Programming**
 
