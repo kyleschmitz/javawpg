@@ -1,5 +1,7 @@
 public class Student
 {
-	public String Name;
-	public int Grade;
+	public String firstName;
+	public String lastName;
+	public int age;
+	public int grade;
 }
