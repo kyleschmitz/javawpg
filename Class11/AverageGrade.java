@@ -12,12 +12,18 @@ public class AverageGrade
 			students[i] = new Student();
 			System.out.print("Enter name: ");
 			students[i].firstName = scanner.next();
+			System.out.print("Enter grade: ");
+			students[i].grade = scanner.nextInt();
 		}
 
-
+		double averageGrade = 0;
 		for(int i=0; i<3; i++)
 		{
-			System.out.println("Name " + (i + 1) + " is "  + students[i].firstName);
-		}		
+			averageGrade += students[i].grade;
+		}
+
+		averageGrade /= 3;
+
+		System.out.println("The average grade is: " + averageGrade);
 	}
 }
