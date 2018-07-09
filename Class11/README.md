@@ -13,8 +13,3 @@
     * [Book.java](Book.java)
 
 Next class will be further learning about **Object Oriented Programming**
-
-## Homework
-
-1. Complete the following assignment in Java:
-  * (Not posted yet!)
