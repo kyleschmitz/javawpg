@@ -5,7 +5,8 @@
 * Finishing notes from last class
   * https://drive.google.com/open?id=19kpHx7-CHolTwjBib2lN9QVqe58KEgNsHo88fjk6hCs
 * Examples from class:
-  * (Not posted yet)
+  * [InClassAssignment.java - Main class](InClassAssignment.java)
+  * [Book.java - Supporting class](Book.java)
 
 Next class will be further learning about **Object Oriented Programming**
 
