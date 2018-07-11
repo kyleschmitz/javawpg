@@ -12,5 +12,5 @@ Next class will be further learning about **Object Oriented Programming**
 
 ## Homework
 
-Complete the following questions in Java:
+Continue completing the following questions in Java:
 * https://drive.google.com/open?id=1U8o_fe033WPHV2rOhDpoCRkH6eSeNwoPpT102q559Qc
