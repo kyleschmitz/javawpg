@@ -5,8 +5,16 @@
 * Continue learning about object oriented programming:
   * https://drive.google.com/open?id=10kLf0Hryve9-cJW4IvjxuJc_9a_h2cVoYo63FhN8m04
 * Examples from class:
-  * [InClassAssignment.java - Main class](InClassAssignment.java)
-  * [Book.java - Supporting class](Book.java)
+  * Library example:
+    * [InClassAssignment.java - Main class](InClassAssignment.java)
+    * [Book.java - Supporting class](Book.java)
+  * String example:
+    * [StringExample.java](StringExample.java)
+    * [StudentExample.java](Student.java)
+  * Bicycle example:
+    * [BicycleExample.java](BicycleExample.java)
+    * [Bicycle.java](Bicycle.java)
+
 
 Next class will be further learning about **Object Oriented Programming**
 

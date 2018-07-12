@@ -4,6 +4,13 @@ public class Student
 
 	public int getNameLength()
 	{
-		return _name.length();
+		if (_name == null)
+		{
+			return -1;
+		}
+		else
+		{
+			return _name.length();
+		}
 	}
 }
