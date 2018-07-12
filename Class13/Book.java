@@ -25,4 +25,41 @@ public class Book
 	{
 		return _name + ", by " + _author + ". " + _lentCopies + " copies lent out from " + _numberOfCopies + " total.";
 	}
+
+	public boolean LendCopy()
+	{
+		if (_lentCopies < _numberOfCopies)
+		{
+			_lentCopies++;
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
+
+	public boolean ReturnCopy()
+	{
+		if (_lentCopies > 0)
+		{
+			_lentCopies--;
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
+
+	public String getName()
+	{
+		return _name;
+	}
+
+
+	public int getRemainingCopies()
+	{
+		return _numberOfCopies - _lentCopies;
+	}
 }

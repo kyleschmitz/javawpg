@@ -17,10 +17,10 @@ public class InClassAssignment
 					lastIndex++;
 					break;
 				case 3:
-					TakeOutABook();
+					TakeOutABook(books, lastIndex);
 					break;
 				case 4:
-					ReturnABook();
+					ReturnABook(books);
 					break;
 				case 5:
 					ListAllBooks(books, lastIndex);
@@ -57,14 +57,80 @@ public class InClassAssignment
 		return new Book(name, author, numberOfCopies);
 	}
 
-	public static void TakeOutABook()
+	public static Book FindBookByName(String name, Book[] books, int lastIndex)
 	{
+		int indexOfFoundBook = -1;
 
+		for (int i=0; i<lastIndex; i++)
+		{
+			if(books[i].getName().equals(name))
+			{
+				indexOfFoundBook = i;	
+			}
+		}
+
+		if (indexOfFoundBook != -1)
+		{
+			return books[indexOfFoundBook];
+		}
+		else
+		{
+			return null;
+		}
 	}
 
-	public static void ReturnABook()
+	public static void TakeOutABook(Book[] books, int lastIndex)
 	{
+		Scanner scanner = new Scanner(System.in);
+		String name;
 
+		//Prompt user for book to take out, and get book.
+		System.out.println();
+		System.out.print("Please enter the name of the book to take out: ");
+		name = scanner.nextLine();
+
+		Book selectedBook = FindBookByName(name, books, lastIndex);
+		if (selectedBook == null)
+		{
+			System.out.println("Book not found");
+		}
+		else
+		{
+			boolean successful = selectedBook.LendCopy();
+
+			if (successful)
+			{
+				System.out.println("Took out book " + selectedBook.getName()  + " successfully.");
+				System.out.println("There are " + selectedBook.getRemainingCopies() + " copies left in stock.");
+			}
+			else
+			{
+				System.out.println("Sorry, all copies are out of stock.");
+			}
+		}
+	}
+
+	public static void ReturnABook(Book[] books)
+	{
+		Scanner scanner = new Scanner(System.in);
+		int index;
+
+		System.out.println();
+		System.out.print("Please enter the index of the book to return: ");
+		index = scanner.nextInt();
+
+		Book selectedBook = books[index];
+		boolean successful = selectedBook.ReturnCopy();
+
+		if (successful)
+		{
+			System.out.println("Returned the book " + selectedBook.getName() + " succesfully.");
+			System.out.println("There are " + selectedBook.getRemainingCopies() + " copies left in stock.");
+		}
+		else
+		{
+			System.out.println("Sorry, all copies have already been returned");
+		}
 	}
 
 	public static void ListAllBooks(Book[] books, int lastIndex)
