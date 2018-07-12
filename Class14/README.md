@@ -2,8 +2,7 @@
 
 ## Agenda
 
-* Finish the object oriented programming slides from last class:
-  * https://drive.google.com/open?id=10kLf0Hryve9-cJW4IvjxuJc_9a_h2cVoYo63FhN8m04
+* In class example of how to insert/remove items from the middle of an array.
 * Continue learning about object oriented programming:
   * https://drive.google.com/open?id=15GfgMN5XNKmPkG3JiCeYIzn4_0FX0xE8zmR4rf6v6W0
 * Examples from class:
