@@ -6,7 +6,7 @@
 * Learning about modifiers and static variables/methods
   * https://drive.google.com/open?id=1nSypySZzJzs4YJlVVqcZs_SxV9KkdcPIf39A2XRDWL4
 
-Next class will be further learning about **Object Oriented Programming**
+Next class will be a **resume building** seminar.
 
 ## In-class Examples
 
