@@ -20,6 +20,7 @@ Creating new serial numbers for new bicycles
 
 Example usage of final for reference variables
 * [FinalExample.java](FinalExample.java)
+* [Invoice.java](Invoice.java)
 * [Customer.java](Customer.java)
 
 ## Homework
