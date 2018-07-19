@@ -14,6 +14,14 @@ Creating and counting instance of Person
 * [Main.java](Main.java)
 * [Person.java](Person.java)
 
+Creating new serial numbers for new bicycles
+* [BikeCounter.java](BikeCounter.java)
+* [Bicycle.java](Bicycle.java)
+
+Example usage of final for reference variables
+* [FinalExample.java](FinalExample.java)
+* [Customer.java](Customer.java)
+
 ## Homework
 
 Completing the following questions in Java:
