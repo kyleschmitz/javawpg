@@ -10,7 +10,9 @@ Next class will be a **resume building** seminar.
 
 ## In-class Examples
 
-(Not posted yet)
+Creating and counting instance of Person
+* [Main.java](Main.java)
+* [Person.java](Person.java)
 
 ## Homework
 
