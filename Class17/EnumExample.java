@@ -4,11 +4,7 @@ public class EnumExample
 {
 	public static void main(String[] args)
 	{
-		Scanner scanner = new Scanner(System.in);
-
-		System.out.print("Please enter the day of the week: ");
-		int dayAsIndex = scanner.nextInt();
-		DaysOfTheWeek day = DaysOfTheWeek.values()[dayAsIndex];
+		DaysOfTheWeek day = DaysOfTheWeek.Tuesday;
 
 		if (day == DaysOfTheWeek.Monday || day == DaysOfTheWeek.Wednesday || day == DaysOfTheWeek.Thursday)
 		{

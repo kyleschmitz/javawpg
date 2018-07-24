@@ -16,8 +16,11 @@ Example of bad encapsulation:
 * [BadExample.java](BadExample.java)
 * [ATM.java](ATM.java)
 * [BankAccount.java](BankAccount.java)
+Enum Example
+* [EnumExample.java](EnumExample.java)
+* [DaysOfTheWeek.java](DaysOfTheWeek.java)
 
 ## Homework
 
 Completing the following questions in Java:
-* (Not posted yet)
+* https://drive.google.com/open?id=1be_IiFxK2XsMv3wZN-YIrh-zVA-i0JfpkLP5pcWgt-I
