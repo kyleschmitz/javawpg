@@ -1,4 +1,4 @@
-# Class 17 - July 23, 2018
+# Class 18 - July 25, 2018
 
 ## Agenda
 
@@ -12,12 +12,14 @@ Next class will be on **Java Packages**
 Enums example
 * [CoffeeShop.java](CoffeeShop.java) - Main class
 * [CoffeeSize.java](CoffeeSize.java) - Enum
+
 Interfaces Example - Payroll
 * [Payroll.java](Payroll.java) - Main class
 * [Employee.java](Employee.java) - Interface
 * [Receptionist.java](Receptionist.java) - Implementation
 * [SoftwareDeveloper.java](SoftwareDeveloper.java) - Implementation
 * [CEO.java](CEO.java) - Implementation
+
 Interfaces Example - Bank Accounts
 * [Bank.java](Bank.java) - Main class
 * [Account.java](Account.java) - Interface
