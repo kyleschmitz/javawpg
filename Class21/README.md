@@ -2,8 +2,8 @@
 
 ## Agenda
 
-* Learning about Java Packages
-  * https://drive.google.com/open?id=1MmC-fNqLczZLL6431s0hv6epX0cC09As_UKm6-r7dAI
+* Further learning about inheritance
+  * https://drive.google.com/open?id=1MH_olEXkk9u8TWG6lJPc8-kzfuIKbd5rB0zC8Y9PNvo
 * Learning about Git and Github
   * https://drive.google.com/open?id=1Xykqml88NhyevZaE-pMVS8FmvmJYnhj6wgY4BP_qCEU
   * https://www.youtube.com/watch?v=SWYqp7iY_Tc
