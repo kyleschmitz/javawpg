@@ -2,17 +2,13 @@
 
 ## Agenda
 
-* Further learning about inheritance
-  * https://drive.google.com/open?id=1MH_olEXkk9u8TWG6lJPc8-kzfuIKbd5rB0zC8Y9PNvo
 * Learning about Git and Github
   * https://drive.google.com/open?id=1Xykqml88NhyevZaE-pMVS8FmvmJYnhj6wgY4BP_qCEU
+* Some additional resources 
   * https://www.youtube.com/watch?v=SWYqp7iY_Tc
+  * https://learngitbranching.js.org/
 
 Next class will be on **Polymorphism**
-
-## In-class Examples
-
-(Not posted yet)
 
 ## Homework
 
