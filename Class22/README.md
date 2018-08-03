@@ -25,4 +25,5 @@ Buyer/Seller account example
 
 ## Homework
 
-Complete the following assignment in Java:
+Complete questions 1-6 of the following assignment in Java:
+* https://docs.google.com/document/d/1QfHoRn1MEWwAJXuk9JBP0ovwzBosH6_S0XbyCXv-Al8/
