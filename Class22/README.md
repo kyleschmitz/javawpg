@@ -12,16 +12,16 @@ Next class will be further learning on **Polymorphism**
 ## In-class Examples
 
 Bank account example
-* (BankExample.java)[BankExample.java]
-* (BankAccount.java)[BankAccount.java]
-* (Savings.java)[Savings.java]
-* (Chequing.java)[Chequing.java]
+* [BankExample.java](BankExample.java)
+* [BankAccount.java](BankAccount.java)
+* [Savings.java](Savings.java)
+* [Chequing.java](Chequing.java)
 
 Buyer/Seller account example
-* (UserExercise.java)[UserExercise.java]
-* (Buyer.java)[Buyer.java]
-* (Seller.java)[Seller.java]
-* (User.java)[User.java]
+* [UserExercise.java](UserExercise.java)
+* [Buyer.java](Buyer.java)
+* [Seller.java](Seller.java)
+* [User.java](User.java)
 
 ## Homework
 
