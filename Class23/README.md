@@ -16,7 +16,10 @@ Video series on web development (we will not be focusing on javascript in this c
 
 ## In-class Examples
 
-(Not posted yet)
+Sample Website
+* [index.html](index.html)
+* [workexperience.html](workexperience.html)
+* [main.css](main.css)
 
 ## Homework
 
