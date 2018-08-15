@@ -1,15 +1,3 @@
 body {
-	background: #EEE;
 	font-family: arial;
 }
-
-a {
-	color: green;
-}
-
-.important {
-	background: #666;
-	color: white;
-	padding: 10px;
-}
-

@@ -11,14 +11,13 @@
 
 ## Further Learning
 
-Video series on web development (we will not be focusing on javascript in this course)
-* https://www.youtube.com/watch?v=3JluqTojuME&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc
-JSP and Servlets Tutorial
-* https://www.youtube.com/watch?v=Vvnliarkw48
+* Video series on web development (we will not be focusing on javascript in this course)
+  * https://www.youtube.com/watch?v=3JluqTojuME&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc
+* JSP and Servlets Tutorial
+  * https://www.youtube.com/watch?v=Vvnliarkw48
 
 ## In-class Examples
 
-Sample Website
 (Not posted yet)
 
 ## Homework
