@@ -1,0 +1,20 @@
+.info-panel {
+	margin: 20px;
+}
+
+.myPanel {
+	margin: 3%;
+	border: 1px solid #aaa;
+	border-radius: 5px;
+}
+
+.myPanel .header {
+	background: #B6F0C4;
+	border-radius: 5px 5px 0px 0px;
+	color: #687D6D;
+	padding: 10px 20px;
+}
+
+.myPanel .body {
+	padding: 10px 20px;
+}

@@ -1,3 +1,30 @@
-body {
-	font-family: arial;
+.info-panel {
+	margin: 10px;
+}
+
+.myPanel {
+	margin: 10px;
+	border: 1px solid #999;
+	border-radius: 5px;
+}
+
+.myPanel .header {
+	background: #369;
+	color: white;
+	padding: 5px 10px;
+}
+
+.myPanel .description {
+	padding: 10px;
+}
+
+
+.column-test-dark {
+	background: #AAA;
+}
+.column-test-darker {
+	background: #666;
+}
+.column-test-darkest {
+	background: #222;
 }
