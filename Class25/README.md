@@ -16,7 +16,8 @@
 
 ## In-class Examples
 
-(Not posted yet)
+* JSP Website Example
+  * [first-web-application](https://github.com/kyleschmitz/first-web-application)
 
 ## Homework
 
